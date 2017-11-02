@@ -1,0 +1,10 @@
+[package]
+name = "temp_forcast"
+version = "0.1.0"
+authors = ["s5003597"]
+
+[dependencies]
+reqwest = "0.8.0"
+serde_json = "1.0.5"
+
+
